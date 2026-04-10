@@ -1,5 +1,4 @@
-# Artefact_Project
-Round II Assignment
+# NLP_Project
 
 NLP Analysis of Google Reviews for Saudi Arabian Sites
 
